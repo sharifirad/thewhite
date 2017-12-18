@@ -42,7 +42,9 @@ small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td, button, textarea {
-  font-family: Sahel; }
+  font-family: Sahel;
+  text-align: justify;
+  line-height: 200%;}
 
 html, body {
   margin: 0;
